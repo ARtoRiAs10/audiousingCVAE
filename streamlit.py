@@ -116,4 +116,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-st run /usr/local/lib/python3.10/dist-packages/ipykernel_launcher.py
+#st run /usr/local/lib/python3.10/dist-packages/ipykernel_launcher.py
