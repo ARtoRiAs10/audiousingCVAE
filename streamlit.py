@@ -7,13 +7,13 @@ Original file is located at
     https://colab.research.google.com/drive/1O5GB5Jh-Q2Zcnq031ttS6KH-ybcc9bUE
 """
 
-!pip install audiocraft
+#!pip install audiocraft
 import audiocraft
 
-!pip install MusicGen
+#!pip install MusicGen
 import MusicGen
 
-!pip install streamlit
+#!pip install streamlit
 import streamlit
 
 
